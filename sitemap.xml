@@ -1,121 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.apuck.com/blog/2015/10/10/migrate-from-jekyll/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>http://apuck.com/buying-guide/buy-from-hansshow/</loc>
+    <lastmod>2019-12-07T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>http://apuck.com/video-guide/tesla-frunk/</loc>
+    <lastmod>2019-12-07T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>http://apuck.com/installation/requirments/</loc>
+    <lastmod>2019-12-05T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>http://apuck.com/installation/</loc>
+    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>http://apuck.com/video-guide/tesla-trunk/</loc>
+    <lastmod>2019-12-07T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/installation/trunk/</loc>
+    <lastmod>2019-12-05T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/video-guide/tesla-accessory/</loc>
+    <lastmod>2019-12-08T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/categories/</loc>
-    <priority>0</priority>
+    <loc>http://apuck.com/installation/frunk/</loc>
+    <lastmod>2019-12-06T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/contact/</loc>
+    <loc>http://apuck.com/video-guide/</loc>
+    <lastmod>2019-12-07T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/faq/</loc>
+    <loc>http://apuck.com/contact/</loc>
+    <lastmod>2019-12-07T09:10:27+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/buying-guide/</loc>
+    <lastmod>2019-12-06T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/faq/</loc>
+    <lastmod>2018-12-27T09:10:27+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/</loc>
   </url>
   
   <url>
-    <loc>http://www.apuck.com/categories/lorem/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.apuck.com/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.apuck.com/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.apuck.com/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.apuck.com/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.apuck.com/tags/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.apuck.com/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://apuck.com/tags/</loc>
   </url>
   
 </urlset>
