@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://apuck.com/installation/</loc>
-    <lastmod>2019-12-08T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://apuck.com/buying-guide/buy-from-hansshow/</loc>
     <lastmod>2019-12-07T11:02:05+06:00</lastmod>
   </url>
@@ -20,6 +15,10 @@
   <url>
     <loc>http://apuck.com/installation/requirments/</loc>
     <lastmod>2019-12-05T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://apuck.com/installation/</loc>
   </url>
   
   <url>
