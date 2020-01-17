@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Features on Book Level Checker APP</title>
+    <link>http://apuck.com/features/</link>
+    <description>Recent content in Features on Book Level Checker APP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Apuck 2020.</copyright>
+    <lastBuildDate>Fri, 17 Jan 2020 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="http://apuck.com/features/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
