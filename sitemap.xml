@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://apuck.com/books/grade-3/_2020-most-popular-books-for-grade-3/</loc>
+    <lastmod>2020-01-23T18:19:52-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://apuck.com/books/</loc>
+    <lastmod>2020-01-23T18:13:22-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://apuck.com/features/</loc>
-    <lastmod>2020-01-17T15:19:35-08:00</lastmod>
+    <lastmod>2020-01-23T18:12:42-08:00</lastmod>
   </url>
   
   <url>
@@ -83,6 +93,11 @@
   </url>
   
   <url>
+    <loc>http://apuck.com/</loc>
+    <lastmod>2020-01-23T18:19:52-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://apuck.com/privacy-policy/</loc>
     <lastmod>2020-01-19T15:18:09-08:00</lastmod>
   </url>
@@ -95,10 +110,6 @@
   <url>
     <loc>http://apuck.com/buying-guide/</loc>
     <lastmod>2020-01-17T15:27:48-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://apuck.com/</loc>
   </url>
   
   <url>
