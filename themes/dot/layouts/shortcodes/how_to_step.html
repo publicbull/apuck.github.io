@@ -1,7 +1,0 @@
-
-<div id="step{{.Get "step"}}" itemprop="step" itemscope itemtype="http://schema.org/HowToStep">
-    <h3 itemprop="name">Step {{.Get "step"}}: {{.Get "name"}}</h3>
-    <div itemprop="text">{{.Get "text"}}</div>
-    {{ if .Get "image"}}<div><img itemprop="image" src="{{.Get "image"}}" /></div> {{ end }}
-    <meta itemprop="url" content="{{.Get "urlbase"}}#step{{.Get "step"}}" />
-</div>
