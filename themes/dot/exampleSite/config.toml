@@ -1,22 +1,21 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "http://apuck.com/"
+baseURL = "https://examplesite.com/"
 # theme
 theme = "dot"
 # site title
-title = "Apuck LLC"
+title = "Dot"
 # default content language
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-
 disableLanguages = ["fr"]
 
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
-logo = "images/logo.png"
+logo = "logo.png"
 # logo white is for homepage logo, you can use colorful logo too...
-logoWhite = "images/logo.png"
+logoWhite = ""
 # when logo is empty, it will shown your site title
 
 # customize color
@@ -169,5 +168,3 @@ link = "#"
     [Languages.fr.params.contact]
       title = "Vous avez des questions"
       content = "Envoyez le formulaire et confirmez votre adresse e-mail à l'adresse <a class='text-primary' href='https://formspree.io/'>Formspree</a> Ajoutez ensuite les lignes suivantes pour contacter la page YAML Front Matter."
-
-      

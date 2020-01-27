@@ -1,0 +1,8 @@
+
+<div itemscope itemtype="http://schema.org/{{.Get "itemtype"}}">
+  <h1 itemprop="name">{{.Get "name"}}</h1>
+  <meta itemprop="url" content="{{.Get "urlbase"}}"/>
+  {{if .Get "totalTime"}}<div>Total time: about <span itemprop="totalTime" content="{{.Get "totalTime"}}">{{.Get "totalTimeDescription"}}</span></div>{{ end }}
+  <div itemprop="description">The installation's difficulty level is moderate. You might want to read through the following intensive guide first to have a better sense of flow and cautions.</div>
+  {{.Inner}}
+</div>
