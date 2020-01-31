@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © Apuck LLC</copyright>
-    <lastBuildDate>Fri, 31 Jan 2020 10:02:05 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 14:02:05 +0600</lastBuildDate>
     
 	<atom:link href="http://apuck.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Harry Potter Series</title>
-      <link>http://apuck.com/books/popular/harry-potter/</link>
-      <pubDate>Fri, 31 Jan 2020 10:02:05 +0600</pubDate>
-      
-      <guid>http://apuck.com/books/popular/harry-potter/</guid>
-      <description>Harry Potter Series  Harry Potter and the Sorcerer&#39;s Stone   J.K. Rowling (AR 5.5, MG, AR Points: 12) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;manual&#34;; amzn_assoc_ad_type = &#34;smart&#34;; amzn_assoc_marketplace = &#34;amazon&#34;; amzn_assoc_region = &#34;US&#34;; amzn_assoc_design = &#34;enhanced_links&#34;; amzn_assoc_asins = &#34;133829914X&#34;; amzn_assoc_placement = &#34;adunit&#34;; amzn_assoc_linkid = &#34;29770a18fc1a88067bac9e859efdff09&#34;;    Harry Potter and the Chamber of Secrets   J.K. Rowling (AR 6.7, MG, AR Points: 14) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;</description>
-    </item>
     
     <item>
       <title>2020 Most Popular AR Books for Grade 3</title>
@@ -28,6 +19,24 @@
       
       <guid>http://apuck.com/books/grade-3/2020-most-popular-books-for-grade-3/</guid>
       <description>2020 Most Popular AR Books for Grade 3  Dog Man Series   Dav Pilkey (AR 2.3~2.6, 260L~390L) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;manual&#34;; amzn_assoc_ad_type = &#34;smart&#34;; amzn_assoc_marketplace = &#34;amazon&#34;; amzn_assoc_region = &#34;US&#34;; amzn_assoc_design = &#34;enhanced_links&#34;; amzn_assoc_asins = &#34;1338236598&#34;; amzn_assoc_placement = &#34;adunit&#34;; amzn_assoc_linkid = &#34;ec149321d6064b17d4b19c38db4c3d7d&#34;;    Charlotte&#39;s Web   E.B. White (AR 4.4, 680L) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;manual&#34;; amzn_assoc_ad_type = &#34;smart&#34;; amzn_assoc_marketplace = &#34;amazon&#34;; amzn_assoc_region = &#34;</description>
+    </item>
+    
+    <item>
+      <title>Beverly Cleary Books</title>
+      <link>http://apuck.com/books/popular/beverly-cleary/</link>
+      <pubDate>Fri, 31 Jan 2020 14:02:05 +0600</pubDate>
+      
+      <guid>http://apuck.com/books/popular/beverly-cleary/</guid>
+      <description>Biography Beverly Cleary&#39;s birthday, April 12th, is celebrated across the country on D.E.A.R. Day, with activities related to the Drop Everything and Read Program. One of the most popular and honored authors of all time, Beverly Cleary has won the Newbery Medal for Dear Mr. Henshaw, and both Ramona Quimby, Age 8 and Ramona and Her Father have been named Newbery Honor Books. She makes her home in coastal California.</description>
+    </item>
+    
+    <item>
+      <title>Harry Potter Series</title>
+      <link>http://apuck.com/books/popular/harry-potter/</link>
+      <pubDate>Fri, 31 Jan 2020 10:02:05 +0600</pubDate>
+      
+      <guid>http://apuck.com/books/popular/harry-potter/</guid>
+      <description>Harry Potter Series  Harry Potter and the Sorcerer&#39;s Stone   J.K. Rowling (AR 5.5, MG, AR Points: 12) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;manual&#34;; amzn_assoc_ad_type = &#34;smart&#34;; amzn_assoc_marketplace = &#34;amazon&#34;; amzn_assoc_region = &#34;US&#34;; amzn_assoc_design = &#34;enhanced_links&#34;; amzn_assoc_asins = &#34;133829914X&#34;; amzn_assoc_placement = &#34;adunit&#34;; amzn_assoc_linkid = &#34;29770a18fc1a88067bac9e859efdff09&#34;;    Harry Potter and the Chamber of Secrets   J.K. Rowling (AR 6.7, MG, AR Points: 14) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;</description>
     </item>
     
   </channel>
