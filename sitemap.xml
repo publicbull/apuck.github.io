@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://apuck.com/features/</loc>
+    <lastmod>2020-02-22T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://apuck.com/books/grade-3/2020-most-popular-books-for-grade-3/</loc>
     <lastmod>2020-01-28T13:02:05+06:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>http://apuck.com/books/</loc>
     <lastmod>2020-01-23T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://apuck.com/features/</loc>
-    <lastmod>2020-01-17T11:02:05+06:00</lastmod>
   </url>
   
   <url>
