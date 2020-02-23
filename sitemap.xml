@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://apuck.com/app/</loc>
+    <lastmod>2020-02-22T16:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://apuck.com/features/</loc>
     <lastmod>2020-02-22T11:02:05+06:00</lastmod>
   </url>

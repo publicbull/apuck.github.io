@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book Level Checker on Apuck LLC</title>
+    <link>http://apuck.com/app/</link>
+    <description>Recent content in Book Level Checker on Apuck LLC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © Apuck LLC</copyright>
+    <lastBuildDate>Sat, 22 Feb 2020 16:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="http://apuck.com/app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
