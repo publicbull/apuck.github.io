@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © Apuck LLC</copyright>
-    <lastBuildDate>Fri, 31 Jan 2020 14:02:05 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 11:02:05 +0600</lastBuildDate>
     
 	<atom:link href="http://apuck.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -37,6 +37,17 @@
       
       <guid>http://apuck.com/books/popular/harry-potter/</guid>
       <description>Harry Potter Series  Harry Potter and the Sorcerer&#39;s Stone   J.K. Rowling (AR 5.5, MG, AR Points: 12) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;manual&#34;; amzn_assoc_ad_type = &#34;smart&#34;; amzn_assoc_marketplace = &#34;amazon&#34;; amzn_assoc_region = &#34;US&#34;; amzn_assoc_design = &#34;enhanced_links&#34;; amzn_assoc_asins = &#34;133829914X&#34;; amzn_assoc_placement = &#34;adunit&#34;; amzn_assoc_linkid = &#34;29770a18fc1a88067bac9e859efdff09&#34;;    Harry Potter and the Chamber of Secrets   J.K. Rowling (AR 6.7, MG, AR Points: 14) amzn_assoc_tracking_id = &#34;apuck-20&#34;; amzn_assoc_ad_mode = &#34;</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://apuck.com/covid19/privacy/</link>
+      <pubDate>Mon, 02 Mar 2020 11:02:05 +0600</pubDate>
+      
+      <guid>http://apuck.com/covid19/privacy/</guid>
+      <description>Privacy Policy This Coronavirus Prevention Tips App is provided by Apuck LLC is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. We will not use or share your information with anyone except as described in this Privacy Policy.
+Information Collection and Use For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information.</description>
     </item>
     
   </channel>
